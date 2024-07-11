@@ -23,7 +23,7 @@
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [],
-		"aiUnhappinessModifier": 1.3,
+		"aiUnhappinessModifier": 1.5,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
