@@ -13,6 +13,7 @@
 		"barbarianBonus": 0.33,
 		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
+	        "aiDifficultyLevel": "Deity",
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
 		"aiBuildingCostModifier": 1,
