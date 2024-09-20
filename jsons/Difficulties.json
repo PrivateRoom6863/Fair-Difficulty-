@@ -1,6 +1,6 @@
 [
  {
-		"name": "Fair Match",
+		"name": "Equal",
 		"baseHappiness": 12,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
@@ -10,10 +10,10 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.33,
+		"barbarianBonus": 0,
 		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
-	        "aiDifficultyLevel": "Deity",
+	        "aiDifficultyLevel": "Equal",
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
 		"aiBuildingCostModifier": 1,
@@ -24,7 +24,7 @@
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [],
-		"aiUnhappinessModifier": 1.5,
+		"aiUnhappinessModifier": 1.0,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
