@@ -1,7 +1,7 @@
 [
  {
 		"name": "Equal",
-		"baseHappiness": 12,
+		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
